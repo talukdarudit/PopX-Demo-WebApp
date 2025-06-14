@@ -19,7 +19,7 @@ npm start
 
 ## 📷 Preview
 
-
+https://pop-x-demo.vercel.app/
 
 ## 📄 License
 
